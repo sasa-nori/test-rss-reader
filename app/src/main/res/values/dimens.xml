@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">8dp</dimen>
+
+    <dimen name="font_large">20sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="padding_default">8dp</dimen>
+    <dimen name="thumbnail_large_height">200dp</dimen>
+    <dimen name="thumbnail_default">120dp</dimen>
+</resources>

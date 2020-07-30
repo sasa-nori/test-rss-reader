@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HatenaBlog RSS Reader</string>
+    <string name="top">総合</string>
+    <string name="social">世の中</string>
+    <string name="economics">政治と経済</string>
+    <string name="life">生活</string>
+    <string name="message_no_item">データがありません</string>
+    <string name="label_close">閉じる</string>
+</resources>

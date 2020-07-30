@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/page_top"
+        android:icon="@drawable/ic_home"
+        android:title="@string/top"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/page_social"
+        android:icon="@drawable/ic_social"
+        android:title="@string/social"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/page_economics"
+        android:icon="@drawable/ic_economics"
+        android:title="@string/economics"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/page_life"
+        android:icon="@drawable/ic_life"
+        android:title="@string/life"
+        app:showAsAction="ifRoom" />
+</menu>
